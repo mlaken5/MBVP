@@ -10,10 +10,7 @@ MBVP (Multi-Browser Video Player) is an application designed to streamline your 
 - **Chrome Extension**: Easily add webpages to your MBVP queue with the [MBVP Queue Adder](https://chromewebstore.google.com/detail/mbvp-queue-adder/mdoebicdkhgdkfeflpnhchgfjhnlogdf).
 
 ## Download Links
-You can download the latest version of MBVP from the GitHub Releases page:
-
-- [Download MBVP for Mac](https://github.com/mlaken5/MBVP/releases/download/v1.0.1m/MBVP-Installer.1.0.1.dmg)
-- [Download MBVP for Windows](https://github.com/mlaken5/MBVP/releases/download/v1.0.1/MBVP-Setup-1.0.1.exe)
+You can download the latest version of MBVP from the GitHub Releases page
 
 ## Installation
 1. Click on the appropriate download link for your operating system.
